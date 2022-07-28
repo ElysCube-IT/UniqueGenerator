@@ -1,0 +1,5 @@
+name: UniqueGenerator
+version: '${project.version}'
+main: me.imjaxs.elyscube.uniquegenerator.UniqueGenerator
+authors: [ ImJaxs ]
+website: https://github.com/ElysCube-IT/UniqueGenerator
