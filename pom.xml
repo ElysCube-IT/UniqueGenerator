@@ -18,6 +18,7 @@
     <url>https://github.com/ElysCube-IT/UniqueGenerator</url>
 
     <build>
+        <finalName>UniqueGenerator</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
