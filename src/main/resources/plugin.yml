@@ -4,6 +4,11 @@ main: me.imjaxs.elyscube.uniquegenerator.UniqueGenerator
 authors: [ ImJaxs ]
 website: https://github.com/ElysCube-IT/UniqueGenerator
 depend:
+  - NBTAPI
+  - HeadDatabase
   - PlotSquared
   - Vault
   - TokenEnchant
+commands:
+  generators:
+    description: //

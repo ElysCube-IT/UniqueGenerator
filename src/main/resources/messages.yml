@@ -1,0 +1,19 @@
+no-permission: "&c&l» ERRORE &fNon hai il permesso per eseguire questo comando."
+no-subcommand: "&c&l» ERRORE &fQuesto subcommand non sembra essere registrato."
+no-correct-usage: "&c&l» ERRORE &fUsa: %command_usage%."
+
+no-plot: "&c&l» ERRORE &fDevi essere in un lotto per piazzare un generatore."
+no-plot-owner: "&c&l» ERRORE &fDevi essere l'owner per piazzare un generatore."
+no-money: "&c&l» ERRORE &fNon hai abbastanza soldi per eseguire l'upgrade."
+max-placed: "&c&l» ERRORE &fHai raggiunto il limite di generatori piazzabili."
+
+no-player: "&c&l» ERRORE &fQuesto player non sembra essere online."
+no-generator-exists: "&c&l» ERRORE &fQuesto generatore non esiste."
+no-generator-level: "&c&l» ERRORE &fQuesto generatore non possiede questo livello."
+
+give-generator: "&b&l» GENERATORS &fHai givvato un &b%generator_name% &fa &b%player_name%&f."
+
+place-success: "&b&l» GENERATORS &fHai piazzato con successo il generatore."
+break-success: "&b&l» GENERATORS &fHai rimosso con successo il generatore."
+upgrade-success: "&b&l» GENERATORS &fHai eseguito con successo l'upgrade del generatore al livello &b%generator_level%&f."
+withdraw-success: "&b&l» GENERATORS &fHai ritirato con successo &b%generator_storage%%generator_value%&f."
